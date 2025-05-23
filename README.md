@@ -1,5 +1,11 @@
 # Jogo Orcs vs. Humans
 
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3ed97600-6ef1-48c9-adc1-861417ecdc32" width="700px" />
+</div>
+
+
 ## Visão Geral
 Orcs vs. Humans é um jogo roguelike onde o jogador controla um personagem que interage com orcs em um ambiente dinâmico. O jogo possui animações de sprites tanto para o jogador quanto para os orcs, além de efeitos sonoros e música de fundo.
 
